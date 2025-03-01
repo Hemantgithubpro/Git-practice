@@ -1,1 +1,3 @@
 this is first file in three
+
+another text added to commit
